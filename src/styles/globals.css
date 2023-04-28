@@ -25,3 +25,28 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.container-productos {
+  max-width: 825px;
+  margin: auto;
+  padding-top: 45px;
+}
+
+.item-wrapper {
+  border-radius: 15px;
+  min-height: 440px;
+  position: relative;
+}
+
+img {
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
+
+.price-bottom {
+  position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
