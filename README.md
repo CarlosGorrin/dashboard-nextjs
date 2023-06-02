@@ -1,4 +1,4 @@
-## Contiene los ejercicios 1 y 2
+## 1 y 2
 
 - Correr el back como especifica el repo de front-test.
 
